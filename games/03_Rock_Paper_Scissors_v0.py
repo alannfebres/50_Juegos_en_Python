@@ -1,6 +1,6 @@
 #🫱 Rock Paper Scissors
 #Autor: Alann Febres (Wally)
-
+#--------------------------------------------------------
 print("Jugamos al 🪨 📄 ✂")
 print("")
 print("COMENCEMOS!!!")

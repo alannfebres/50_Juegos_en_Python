@@ -1,6 +1,6 @@
 #SIMULADOR TIRAR EL DADO
 #Autor: Alann Febres (Wally)
-
+#----------------------------------------------------------
 import random
 print("Simulador Arroja el Dado 🎲")
 enter =  "y"

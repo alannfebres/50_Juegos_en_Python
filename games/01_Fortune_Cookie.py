@@ -1,6 +1,6 @@
 # Galleta de la Fortuna
 # Autor: Alann Febres (Wally)
-
+#----------------------------------------------------------
 import random
 print("")
 print("Pidele 3 consejo a la Galleta de la Fortuna 🥠")
