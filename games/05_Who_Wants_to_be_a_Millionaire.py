@@ -253,44 +253,6 @@ while preguntas <= 10:
 
     # preguntas = preguntas + 10
     print("Juego terminado")
-    
-
-
-    # else:
-    #     print("Respuesta incorrecta, te vas con:", piso0)
-        
-    # print("")
-    # print("2da pregunta:")
-    # print("PREGUNTA XXXXX")
-    # print("a)")
-    # print("b)")
-    # print("c)")
-    # print("d)")        
-    
-
-
-    # if rq1 == x:
-    #     print("Si señoooor, respuesta correcta!!!")
-    #     print("")
-    # else:
-    #     print("Respuesta incorrecta, te vas con:", piso0)
-            
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
