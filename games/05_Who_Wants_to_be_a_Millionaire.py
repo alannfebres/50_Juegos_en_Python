@@ -136,7 +136,7 @@ while preguntas <= 10:
         if preguntas == 6 and rq6 == alternativa[1]:
             print("Si señoooor, respuesta correcta!!!")
             print("")
-            print("¡¡¡ YA TIENES EL", quiz[2],"PISO DE:",piso2, "!!!")
+            print("¡¡¡ YA TIENES EL", quiz[1],"PISO DE:",piso2, "!!!")
             print("")
             preguntas += 1
         else:
@@ -181,7 +181,7 @@ while preguntas <= 10:
         if preguntas == 8 and rq8 == alternativa[1]:
             print("Si señoooor, respuesta correcta!!!")
             print("")
-            print("¡¡¡ YA TIENES EL", quiz[3],"PISO DE:",piso3, "!!!")
+            print("¡¡¡ YA TIENES EL", quiz[2],"PISO DE:",piso3, "!!!")
             print("")
             preguntas += 1
         else:
